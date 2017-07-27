@@ -30,6 +30,10 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'devise'
 
+gem 'masonry-rails'
+
+gem 'jquery-rails', '~> 4.0', '>= 4.0.3'
+
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
